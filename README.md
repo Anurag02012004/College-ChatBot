@@ -1,152 +1,301 @@
-# IIIT Kalyani College Chatbot 🎓
+# 🎓 IIIT Kalyani College Chatbot# IIIT Kalyani College Chatbot 🎓
 
-A powerful AI-powered chatbot built from scratch to provide real-time information about IIIT Kalyani. This chatbot uses natural language processing with sentence transformers to understand queries and provide accurate responses about the college.
 
-## 🌟 Features
+
+[![GitHub](https://img.shields.io/badge/github-College--ChatBot-blue)](https://github.com/Anurag02012004/College-ChatBot)A powerful AI-powered chatbot built from scratch to provide real-time information about IIIT Kalyani. This chatbot uses natural language processing with sentence transformers to understand queries and provide accurate responses about the college.
+
+[![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+
+[![Flask](https://img.shields.io/badge/flask-3.1.2-green.svg)](https://flask.palletsprojects.com/)## 🌟 Features
+
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 - **Real College Data**: Contains actual information fetched from IIIT Kalyani's official website
-- **Intelligent Response System**: Uses sentence transformers (Mini-LM model) for semantic understanding
+
+An intelligent AI-powered chatbot for IIIT Kalyani providing comprehensive information about faculty, courses, placements, events, and more using advanced natural language processing.- **Intelligent Response System**: Uses sentence transformers (Mini-LM model) for semantic understanding
+
 - **Beautiful Web Interface**: Modern, responsive chat interface
-- **REST API**: Complete API for integration with other systems
+
+## ✨ Features- **REST API**: Complete API for integration with other systems
+
 - **Real-time Web Scraping**: Can fetch live data from the college website
-- **Multi-topic Coverage**: Information about:
-  - Admissions process
-  - Academic programs (B.Tech, M.Tech, PhD)
-  - Departments and specializations
-  - Research facilities and sponsored projects
-  - Student achievements
+
+- 🤖 **AI-Powered**: Uses Sentence Transformers for semantic understanding- **Multi-topic Coverage**: Information about:
+
+- 📊 **Comprehensive Data**: 16+ faculty members, 494+ data points  - Admissions process
+
+- 📝 **Structured Responses**: Beautiful, well-formatted information display  - Academic programs (B.Tech, M.Tech, PhD)
+
+- ⚡ **Real-time Chat**: Responsive and fast web interface  - Departments and specializations
+
+- 🔌 **RESTful API**: Easy integration with other applications  - Research facilities and sponsored projects
+
+- 🎨 **Modern UI**: Clean gradient design with smooth animations  - Student achievements
+
   - Events and activities
-  - Placements
+
+## 🚀 Quick Start  - Placements
+
   - Facilities and infrastructure
-  - Fee structure
-  - Scholarships
-  - Contact information
+
+### Prerequisites  - Fee structure
+
+- Python 3.11+  - Scholarships
+
+- Git  - Contact information
+
+- pip
 
 ## 🏗️ Project Structure
 
+### Local Setup
+
 ```
-college-chat-bot/
-├── app.py                  # Flask web application
-├── chatbot_model.py        # Core chatbot logic with LLM
-├── web_scraper.py          # Real-time data fetching
+
+```bashcollege-chat-bot/
+
+# Clone repository├── app.py                  # Flask web application
+
+git clone https://github.com/Anurag02012004/College-ChatBot.git├── chatbot_model.py        # Core chatbot logic with LLM
+
+cd College-ChatBot├── web_scraper.py          # Real-time data fetching
+
 ├── college_data.json       # College information database
-├── requirements.txt        # Python dependencies
-├── templates/
-│   └── index.html         # Web interface
+
+# Create virtual environment├── requirements.txt        # Python dependencies
+
+python3 -m venv venv├── templates/
+
+source venv/bin/activate  # Windows: venv\Scripts\activate│   └── index.html         # Web interface
+
 └── README.md              # Documentation
-```
+
+# Install dependencies```
+
+pip install -r requirements.txt
 
 ## 🚀 Installation
 
-### Prerequisites
+# Run application
+
+python app.py### Prerequisites
+
 - Python 3.8 or higher
-- pip (Python package manager)
 
-### Step 1: Clone or Navigate to Project
+# Open browser- pip (Python package manager)
+
+# Navigate to http://localhost:5001
+
+```### Step 1: Clone or Navigate to Project
+
 ```bash
-cd /Users/anurag/Desktop/college-chat-bot
+
+## 🌐 Deployment (FREE!)cd /Users/anurag/Desktop/college-chat-bot
+
 ```
 
-### Step 2: Create Virtual Environment (Recommended)
+### ✅ Step 1: GitHub (DONE!)
+
+Your code is at: https://github.com/Anurag02012004/College-ChatBot### Step 2: Create Virtual Environment (Recommended)
+
 ```bash
-python3 -m venv venv
+
+### Step 2: Deploy Backend to Renderpython3 -m venv venv
+
 source venv/bin/activate  # On macOS/Linux
+
+1. Go to [render.com](https://render.com) and sign in with GitHub```
+
+2. Click "New +" → "Web Service"
+
+3. Connect `Anurag02012004/College-ChatBot` repository### Step 3: Install Dependencies
+
+4. Render auto-detects settings from `render.yaml````bash
+
+5. Click "Create Web Service"pip install -r requirements.txt
+
+6. Wait 5-10 minutes, get your URL: `https://your-app.onrender.com````
+
+
+
+### Step 3: Deploy Frontend to Netlify**Note**: The first run will download the sentence transformer model (~100MB). This is a one-time download.
+
+
+
+1. Update API URL:## 💻 Usage
+
+   ```bash
+
+   ./update_api_url.sh https://your-backend.onrender.com### Method 1: Web Interface (Recommended)
+
+   git add static-frontend/index.html
+
+   git commit -m "Update production API URL"1. Start the Flask server:
+
+   git push```bash
+
+   ```python app.py
+
 ```
 
-### Step 3: Install Dependencies
-```bash
-pip install -r requirements.txt
-```
+2. Go to [netlify.com](https://www.netlify.com) and sign in
 
-**Note**: The first run will download the sentence transformer model (~100MB). This is a one-time download.
+3. "Add new site" → "Import from GitHub"2. Open your web browser and go to:
 
-## 💻 Usage
+4. Select `College-ChatBot` repo```
 
-### Method 1: Web Interface (Recommended)
+5. Base directory: `static-frontend`http://localhost:5000
 
-1. Start the Flask server:
-```bash
-python app.py
-```
+6. Deploy!```
 
-2. Open your web browser and go to:
-```
-http://localhost:5000
-```
 
-3. Start chatting! Try questions like:
+
+**See [DEPLOYMENT_STEPS.md](DEPLOYMENT_STEPS.md) for detailed guide.**3. Start chatting! Try questions like:
+
    - "What programs does IIIT Kalyani offer?"
-   - "How can I get admission?"
-   - "Tell me about the placement statistics"
-   - "What are the research facilities?"
-   - "What is the fee structure?"
 
-### Method 2: Command Line Interface
+## 💬 Example Queries   - "How can I get admission?"
+
+   - "Tell me about the placement statistics"
+
+- "Tell me about Dr. Anirban Lakshman"   - "What are the research facilities?"
+
+- "Who is the director?"   - "What is the fee structure?"
+
+- "Show me CSE faculty"
+
+- "What are the placement records?"### Method 2: Command Line Interface
+
+- "Tell me about recent events"
 
 For testing the chatbot model directly:
-```bash
+
+## 🔌 API Endpoints```bash
+
 python chatbot_model.py
+
+### `POST /api/chat````
+
+```json
+
+{This will start an interactive chat session in your terminal.
+
+  "message": "Tell me about Dr. Anirban Lakshman"
+
+}### Method 3: Use the REST API
+
 ```
-
-This will start an interactive chat session in your terminal.
-
-### Method 3: Use the REST API
 
 Send POST requests to interact programmatically:
 
-```bash
+### `GET /api/health`
+
+Health check```bash
+
 curl -X POST http://localhost:5000/api/chat \
-  -H "Content-Type: application/json" \
-  -d '{"message": "What programs are offered?"}'
+
+### `GET /api/info`  -H "Content-Type: application/json" \
+
+Basic college information  -d '{"message": "What programs are offered?"}'
+
 ```
+
+## 🛠️ Technology Stack
 
 Response:
-```json
-{
-  "response": "IIIT Kalyani offers...",
-  "status": "success"
+
+- **Backend**: Flask, Python 3.11, Gunicorn```json
+
+- **AI/ML**: Sentence Transformers, PyTorch{
+
+- **Frontend**: HTML5, CSS3, JavaScript  "response": "IIIT Kalyani offers...",
+
+- **Deployment**: Render (backend), Netlify (frontend)  "status": "success"
+
 }
+
+## 📁 Project Structure```
+
+
+
+```## 🔧 API Endpoints
+
+College-ChatBot/
+
+├── app.py                     # Flask application| Endpoint | Method | Description |
+
+├── structured_chatbot.py      # AI chatbot|----------|--------|-------------|
+
+├── faculty_data.json          # 16+ faculty members| `/` | GET | Web interface |
+
+├── comprehensive_college_data.json  # 494+ data points| `/api/chat` | POST | Send message to chatbot |
+
+├── templates/index.html       # Web interface| `/api/health` | GET | Health check |
+
+├── static-frontend/           # Netlify frontend| `/api/info` | GET | Get basic college info |
+
+├── requirements.txt           # Dependencies
+
+└── render.yaml               # Deployment config## 🌐 Web Scraping
+
 ```
-
-## 🔧 API Endpoints
-
-| Endpoint | Method | Description |
-|----------|--------|-------------|
-| `/` | GET | Web interface |
-| `/api/chat` | POST | Send message to chatbot |
-| `/api/health` | GET | Health check |
-| `/api/info` | GET | Get basic college info |
-
-## 🌐 Web Scraping
 
 To fetch the latest data from the college website:
 
+## 🤝 Contributing
+
 ```bash
-python web_scraper.py
-```
 
-This will:
-1. Fetch live announcements and events
+1. Fork the repositorypython web_scraper.py
+
+2. Create feature branch: `git checkout -b feature/AmazingFeature````
+
+3. Commit changes: `git commit -m 'Add AmazingFeature'`
+
+4. Push: `git push origin feature/AmazingFeature`This will:
+
+5. Open Pull Request1. Fetch live announcements and events
+
 2. Update the college data file
-3. Make the chatbot aware of the latest information
 
-## 🧠 How It Works
+## 📧 Contact3. Make the chatbot aware of the latest information
 
-### The LLM Model
 
-The chatbot uses a **retrieval-based approach** with semantic understanding:
 
-1. **Data Preparation**: College information is broken into semantic chunks
+- **Developer**: Anurag## 🧠 How It Works
+
+- **GitHub**: [@Anurag02012004](https://github.com/Anurag02012004)
+
+- **Issues**: [Report bugs](https://github.com/Anurag02012004/College-ChatBot/issues)### The LLM Model
+
+
+
+## 📄 LicenseThe chatbot uses a **retrieval-based approach** with semantic understanding:
+
+
+
+MIT License - see LICENSE file1. **Data Preparation**: College information is broken into semantic chunks
+
 2. **Embedding Generation**: Each chunk is converted to a vector using `all-MiniLM-L6-v2` sentence transformer
-3. **Query Processing**: User questions are also converted to vectors
+
+---3. **Query Processing**: User questions are also converted to vectors
+
 4. **Similarity Matching**: Cosine similarity finds the most relevant information
-5. **Response Generation**: Top matching chunks are combined to form a coherent answer
 
-### Architecture
+<div align="center">5. **Response Generation**: Top matching chunks are combined to form a coherent answer
 
-```
+
+
+**Made with ❤️ for IIIT Kalyani**### Architecture
+
+
+
+[⭐ Star this repo](https://github.com/Anurag02012004/College-ChatBot) | [📖 Documentation](DEPLOYMENT_STEPS.md) | [🐛 Report Bug](https://github.com/Anurag02012004/College-ChatBot/issues)```
+
 User Query
-    ↓
+
+</div>    ↓
+
 Sentence Embedding (LLM)
     ↓
 Similarity Search (Cosine)
