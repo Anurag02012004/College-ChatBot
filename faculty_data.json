@@ -1,0 +1,265 @@
+{
+  "director": {
+    "name": "Prof. Santanu Chattopadhyay",
+    "designation": "Professor and Director",
+    "email": "director@iiitkalyani.ac.in",
+    "qualification": "Ph.D.",
+    "areas_of_expertise": [
+      "VLSI and Embedded Systems",
+      "Network-on-Chip Design and Test",
+      "Low Power Digital Design and Testing",
+      "Thermal Aware Testing",
+      "Logic Encryption"
+    ],
+    "department": "Electronics and Communication Engineering",
+    "profile_url": "http://www.iitkgp.ac.in/department/EC/faculty/ec-santanu"
+  },
+  "faculty_members": [
+    {
+      "name": "Dr. Amit Ranjan Azad",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D. (IIT Kharagpur)",
+      "email": "amitranjanazad@iiitkalyani.ac.in",
+      "department": "Electronics and Communication Engineering",
+      "areas_of_expertise": [
+        "Microwave Circuits",
+        "Microwave Filters",
+        "Antennas"
+      ],
+      "profile_url": "http://iiitkalyani.ac.in/php/facultymainpage/amitranjanazad.html"
+    },
+    {
+      "name": "Dr. Anirban Lakshman",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D. (IIT ISM Dhanbad)",
+      "email": "anirban@iiitkalyani.ac.in",
+      "department": "Mathematics",
+      "areas_of_expertise": [
+        "Mathematical Modeling",
+        "Elastodynamics"
+      ],
+      "profile_url": "http://iiitkalyani.ac.in/php/facultymainpage/al.html"
+    },
+    {
+      "name": "Dr. Bhaskar Biswas",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D. (Ecole Polytechnique, France)",
+      "email": "bhaskar@iiitkalyani.ac.in",
+      "department": "Computer Science and Engineering",
+      "areas_of_expertise": [
+        "Coding Theory",
+        "Cryptology"
+      ],
+      "profile_url": "http://iiitkalyani.ac.in/php/facultymainpage/bhaskar.php"
+    },
+    {
+      "name": "Dr. Dalia Nandi (Das)",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D. (University of Calcutta)",
+      "email": "dalia@iiitkalyani.ac.in",
+      "department": "Electronics and Communication Engineering",
+      "areas_of_expertise": [
+        "Radio Wave Propagation",
+        "5G Communication"
+      ],
+      "profile_url": "http://iiitkalyani.ac.in/php/facultymainpage/dnd.html"
+    },
+    {
+      "name": "Dr. Debasish Bera",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D. (IIT Kharagpur)",
+      "email": "debasish@iiitkalyani.ac.in",
+      "department": "Computer Science and Engineering",
+      "areas_of_expertise": [
+        "Coding Theory",
+        "Post-Quantum Cryptography",
+        "Information Theory",
+        "Statistical Analysis of Signal/Data",
+        "Wireless Communication and Networks"
+      ],
+      "profile_url": "http://iiitkalyani.ac.in/php/facultymainpage/db.html"
+    },
+    {
+      "name": "Dr. Imon Mukherjee",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D. (Jadavpur University)",
+      "email": "imon@iiitkalyani.ac.in",
+      "department": "Computer Science and Engineering",
+      "areas_of_expertise": [
+        "Information Security",
+        "Computer Vision",
+        "Data Analytics"
+      ],
+      "profile_url": "http://iiitkalyani.ac.in/php/facultymainpage/im.html"
+    },
+    {
+      "name": "Dr. Oishila Bandyopadhyay",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D. (IIEST, Shibpur)",
+      "email": "oishila@iiitkalyani.ac.in",
+      "department": "Computer Science and Engineering",
+      "areas_of_expertise": [
+        "Medical Image Processing",
+        "Computer Vision",
+        "Digital Geometry"
+      ],
+      "profile_url": "http://iiitkalyani.ac.in/php/facultymainpage/ob.html"
+    },
+    {
+      "name": "Dr. Pratik Chakraborty",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D. (IIT Delhi)",
+      "email": "pratik@iiitkalyani.ac.in",
+      "department": "Electronics and Communication Engineering",
+      "areas_of_expertise": [
+        "Communications and Signal Processing"
+      ],
+      "profile_url": "http://iiitkalyani.ac.in/php/facultymainpage/pc.html"
+    },
+    {
+      "name": "Prof. (Dr.) Rabindranath Bera",
+      "designation": "Visiting Professor, Bose Fellow",
+      "qualification": "Ph.D.",
+      "email": "rbera@iiitkalyani.ac.in",
+      "department": "Electronics and Communication Engineering",
+      "areas_of_expertise": [
+        "Wireless Network",
+        "5G Communication"
+      ],
+      "profile_url": "https://scholar.google.com/citations?hl=en&user=j30d4mUAAAAJ"
+    },
+    {
+      "name": "Dr. Rinky Sha",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D. (IIT Hyderabad)",
+      "email": "rinky@iiitkalyani.ac.in",
+      "department": "Electronics and Communication Engineering",
+      "areas_of_expertise": [
+        "Semiconductor Device Physics",
+        "Nano-electronics and Nanotechnology",
+        "Flexible Electronics",
+        "Bio/Chemical Sensors",
+        "Supercapacitors",
+        "2D Nanomaterials"
+      ],
+      "profile_url": "http://iiitkalyani.ac.in/php/facultymainpage/rs.html"
+    },
+    {
+      "name": "Dr. Sanjay Chatterji",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D. (IIT Kharagpur)",
+      "email": "sanjayc@iiitkalyani.ac.in",
+      "department": "Computer Science and Engineering",
+      "areas_of_expertise": [
+        "Natural Language Processing",
+        "Information Retrieval"
+      ],
+      "profile_url": "http://iiitkalyani.ac.in/php/facultymainpage/sc.html"
+    },
+    {
+      "name": "Dr. Sanjoy Pratihar",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D. (IIT Kharagpur)",
+      "email": "sanjoy@iiitkalyani.ac.in",
+      "department": "Computer Science and Engineering",
+      "areas_of_expertise": [
+        "Computer Vision",
+        "Image Understanding",
+        "Document Image Processing"
+      ],
+      "profile_url": "http://iiitkalyani.ac.in/php/facultymainpage/sp.html"
+    },
+    {
+      "name": "Dr. SK Hafizul Islam",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D. (IIT ISM Dhanbad)",
+      "email": "hafi786@iiitkalyani.ac.in",
+      "department": "Computer Science and Engineering",
+      "areas_of_expertise": [
+        "Cryptography",
+        "Information Security",
+        "Network Security"
+      ],
+      "profile_url": "http://iiitkalyani.ac.in/php/facultymainpage/skh.html"
+    },
+    {
+      "name": "Dr. Soumen Pandit",
+      "designation": "Assistant Professor (On Contract)",
+      "qualification": "Ph.D. (IIT Kharagpur)",
+      "email": "soumen@iiitkalyani.ac.in",
+      "department": "Electronics and Communication Engineering",
+      "areas_of_expertise": [
+        "mmWave Antenna",
+        "Antenna-in-Package",
+        "RF CMOS Circuits",
+        "On-Chip Antenna",
+        "Antenna Array",
+        "Metamaterial",
+        "Metasurface",
+        "Rectenna",
+        "Microwave Absorbers"
+      ],
+      "profile_url": "https://iiitkalyani.ac.in/php/facultymainpage/spt.html"
+    },
+    {
+      "name": "Dr. Sudeshna Mondal",
+      "designation": "Assistant Professor (On Contract)",
+      "qualification": "Ph.D. (IIEST Shibpur)",
+      "email": "sudeshna@iiitkalyani.ac.in",
+      "department": "Mathematics",
+      "areas_of_expertise": [
+        "Mathematical Biology",
+        "Ecological Modelling",
+        "Nonlinear Dynamical Systems",
+        "Population Dynamics"
+      ],
+      "profile_url": "http://iiitkalyani.ac.in/php/facultymainpage/sm.html"
+    },
+    {
+      "name": "Dr. Uma Das",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D. (Physical Research Laboratory, Ahmedabad)",
+      "email": "uma@iiitkalyani.ac.in",
+      "department": "Electronics and Communication Engineering",
+      "areas_of_expertise": [
+        "Upper Atmosphere",
+        "Seismogenic Ionosphere",
+        "Big Data"
+      ],
+      "profile_url": "http://iiitkalyani.ac.in/php/facultymainpage/ud.html"
+    }
+  ],
+  "departments_summary": {
+    "Computer Science and Engineering": {
+      "faculty_count": 7,
+      "faculty_names": [
+        "Dr. Bhaskar Biswas",
+        "Dr. Debasish Bera",
+        "Dr. Imon Mukherjee",
+        "Dr. Oishila Bandyopadhyay",
+        "Dr. Sanjay Chatterji",
+        "Dr. Sanjoy Pratihar",
+        "Dr. SK Hafizul Islam"
+      ]
+    },
+    "Electronics and Communication Engineering": {
+      "faculty_count": 7,
+      "faculty_names": [
+        "Dr. Amit Ranjan Azad",
+        "Dr. Dalia Nandi (Das)",
+        "Dr. Pratik Chakraborty",
+        "Prof. Rabindranath Bera",
+        "Dr. Rinky Sha",
+        "Dr. Soumen Pandit",
+        "Dr. Uma Das"
+      ]
+    },
+    "Mathematics": {
+      "faculty_count": 2,
+      "faculty_names": [
+        "Dr. Anirban Lakshman",
+        "Dr. Sudeshna Mondal"
+      ]
+    }
+  }
+}

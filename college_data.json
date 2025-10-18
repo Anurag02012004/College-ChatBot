@@ -1,0 +1,237 @@
+{
+  "college_info": {
+    "name": "Indian Institute of Information Technology, Kalyani",
+    "short_name": "IIIT Kalyani",
+    "location": "Kalyani, West Bengal, India",
+    "established": "2014",
+    "type": "Institute of National Importance",
+    "motto": "विद्याधनं सर्वधनप्रधानम् (Knowledge is the supreme wealth)",
+    "website": "https://iiitkalyani.ac.in",
+    "contact": {
+      "phone": "+91-33-2582-8750",
+      "email": "director@iiitkalyani.ac.in"
+    }
+  },
+  "about": {
+    "description": "IIIT Kalyani is an Institute of National Importance established by Ministry of Education, Government of India. The institute offers undergraduate, postgraduate, and doctoral programs in Computer Science, Electronics and Communication Engineering, and related fields.",
+    "vision": "To emerge as a center of excellence in Information Technology and allied areas through quality education, research, and innovation.",
+    "mission": "To provide quality education and foster research in emerging areas of IT, to develop industry-ready professionals, and to contribute to societal development through innovation."
+  },
+  "departments": [
+    {
+      "name": "Computer Science and Engineering",
+      "programs": ["B.Tech", "M.Tech", "PhD"],
+      "specializations": ["Artificial Intelligence", "Data Science", "Blockchain", "Cybersecurity"]
+    },
+    {
+      "name": "Electronics and Communication Engineering",
+      "programs": ["B.Tech", "M.Tech", "PhD"],
+      "specializations": ["VLSI Design", "Embedded Systems", "5G Technology"]
+    },
+    {
+      "name": "Mathematics",
+      "programs": ["PhD"],
+      "specializations": ["Applied Mathematics", "Computational Mathematics"]
+    }
+  ],
+  "programs": {
+    "undergraduate": [
+      {
+        "name": "B.Tech in Computer Science and Engineering",
+        "duration": "4 years",
+        "seats": "120",
+        "admission": "JEE Main"
+      },
+      {
+        "name": "B.Tech in Electronics and Communication Engineering",
+        "duration": "4 years",
+        "seats": "60",
+        "admission": "JEE Main"
+      }
+    ],
+    "postgraduate": [
+      {
+        "name": "M.Tech in VLSI and Embedded Systems",
+        "duration": "2 years",
+        "admission": "GATE / Institute Entrance Exam"
+      },
+      {
+        "name": "Executive M.Tech in AI & Data Science",
+        "duration": "2 years",
+        "admission": "Institute Selection Process"
+      }
+    ],
+    "doctoral": [
+      {
+        "name": "PhD in Computer Science",
+        "admission": "Institute Entrance Test and Interview"
+      },
+      {
+        "name": "PhD in Electronics and Communication",
+        "admission": "Institute Entrance Test and Interview"
+      }
+    ]
+  },
+  "research_facilities": [
+    {
+      "name": "VLSI Lab",
+      "description": "State-of-the-art facility for VLSI design and testing"
+    },
+    {
+      "name": "5G Lab",
+      "description": "Advanced lab for 5G communication research"
+    },
+    {
+      "name": "Computing Lab",
+      "description": "High-performance computing infrastructure for research"
+    },
+    {
+      "name": "SHE Lab",
+      "description": "Sensors for Health-care and Environmental monitoring Lab"
+    }
+  ],
+  "sponsored_projects": [
+    {
+      "title": "Extraction, Organization and Query of Scholarly Information",
+      "sponsor": "SERB, DST, Govt. of India",
+      "amount": "₹21.92 Lakhs"
+    },
+    {
+      "title": "Development of Code based PQC algorithms and its security analysis",
+      "sponsor": "CAIR-DRDO, Ministry of Defence",
+      "amount": "₹49.97 Lakhs"
+    },
+    {
+      "title": "VLSI Implementation of Crypto-Hardware targeting Classical and Post Quantum Cryptography",
+      "sponsor": "MeitY, Govt. of India",
+      "amount": "₹84.40 Lakhs"
+    },
+    {
+      "title": "Cyclone Intensity and Track Prediction using Deep Learning",
+      "sponsor": "SERB, DST, Govt. of India",
+      "amount": "₹26.44 Lakhs"
+    },
+    {
+      "title": "AI-enabled 2D-Mxenes based electrochemical immunosensor for breast cancer detection",
+      "sponsor": "ICMR, Govt. of India",
+      "amount": "₹94.22 Lakhs"
+    }
+  ],
+  "achievements": [
+    "4th Annual Convocation held in 2024",
+    "Mr. Sourabh Biswas received Best Paper award in IEEE PKIA-24",
+    "Ms. Sreeparna Ganguly won Best Paper Award at IEEE SILCON 2023",
+    "Multiple students selected for Google Summer of Code",
+    "Students secured top ranks in GATE 2024 and 2025",
+    "Team finalists in Flipkart Grid 6.0",
+    "Students won medals at Inter IIIT Sports Meet 2025",
+    "Teams selected for Smart India Hackathon finals"
+  ],
+  "events": [
+    {
+      "name": "Enigma",
+      "month": "February 2025",
+      "type": "Technical Festival"
+    },
+    {
+      "name": "1st Alumni Meet",
+      "month": "January 2025",
+      "type": "Alumni Gathering"
+    },
+    {
+      "name": "DLAWS 2025",
+      "description": "Deep Learning and Applications in Weather Sciences Workshop",
+      "sponsor": "ANRF"
+    },
+    {
+      "name": "National Science Day",
+      "month": "February 2024"
+    },
+    {
+      "name": "CodeCombat 2.0",
+      "month": "March 2024",
+      "type": "Coding Competition"
+    }
+  ],
+  "placements": {
+    "description": "IIIT Kalyani has a dedicated placement cell that facilitates internships and full-time placements",
+    "portal": "http://iiitkalyani.ac.in/placement/",
+    "companies": "Leading IT companies, startups, and research organizations visit the campus"
+  },
+  "admissions": {
+    "undergraduate": {
+      "exam": "JEE Main",
+      "counseling": "JoSAA",
+      "process": "Students need to appear for JEE Main and participate in JoSAA counseling"
+    },
+    "postgraduate": {
+      "mtech_vlsi": "GATE / Without GATE through institute entrance exam",
+      "mtech_executive": "Institute selection process for working professionals"
+    },
+    "phd": {
+      "process": "Entrance test and interview",
+      "sessions": "Autumn and Spring",
+      "fellowship": "Eligible candidates receive fellowships as per norms"
+    }
+  },
+  "facilities": [
+    "Central Library with digital resources",
+    "High-speed internet connectivity",
+    "Computer labs with latest software",
+    "Research labs with modern equipment",
+    "Sports facilities",
+    "Hostel accommodation",
+    "Medical facilities",
+    "Canteen and mess"
+  ],
+  "collaborations": [
+    "NPTEL Collaboration for online courses",
+    "Visvesvaraya PhD Scheme",
+    "AICTE-QIP Programs",
+    "Industry partnerships",
+    "Research collaborations with IITs and IISERs"
+  ],
+  "scholarships": [
+    "Merit-cum-Means Scholarship",
+    "SC/ST/OBC scholarships",
+    "Prime Minister Research Fellowship",
+    "Visvesvaraya Fellowship",
+    "State government scholarships",
+    "Vidya Lakshmi portal for education loans"
+  ],
+  "fee_structure": {
+    "btech": {
+      "tuition_fee": "Approximately ₹1.25 lakhs per semester",
+      "hostel": "Additional charges for hostel and mess",
+      "other": "One-time fees and semester fees apply"
+    },
+    "mtech": {
+      "tuition_fee": "As per government norms",
+      "financial_aid": "Scholarships available for eligible students"
+    }
+  },
+  "contact_info": {
+    "address": "IIIT Kalyani, Webel IT Park, Kalyani, West Bengal - 741235",
+    "phone": "+91-33-2582-8750",
+    "email": "info@iiitkalyani.ac.in",
+    "director_email": "director@iiitkalyani.ac.in"
+  },
+  "important_links": [
+    {
+      "name": "NIRF Ranking",
+      "url": "Available on website"
+    },
+    {
+      "name": "RTI Information",
+      "description": "Right to Information available"
+    },
+    {
+      "name": "UG Regulations",
+      "description": "Academic regulations for undergraduate programs"
+    },
+    {
+      "name": "Academic Calendar",
+      "description": "Semester schedule and important dates"
+    }
+  ]
+}

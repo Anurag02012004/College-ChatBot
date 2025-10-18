@@ -1,0 +1,605 @@
+{
+  "metadata": {
+    "scraped_on": "2025-10-18T07:41:26.055000",
+    "source": "https://iiitkalyani.ac.in"
+  },
+  "homepage": {
+    "announcements": [
+      "Dance Workshop (March 2024)"
+    ],
+    "news": [],
+    "highlights": []
+  },
+  "faculty": {
+    "scraped_names": [
+      "Tamal Ghosh  Ph",
+      "Oishila Bandyopadhyay  Ph",
+      "Bhaskar Biswas\nAssistant Professor",
+      "Imon Mukherjee\nAssistant Professor",
+      "Debasish Bera\nAssistant Professor",
+      "Amit Ranjan Azad\nAssistant",
+      "Bhaskar Biswas  Ph",
+      "Sanjoy Pratihar\nAssistant Professor",
+      "Anirban Lakshman  Ph",
+      "Sanjay Chatterji\nAssistant Professor",
+      "Anirban Lakshman\nAssistant Professor",
+      "Rinky Sha\nAssistant Professor",
+      "Goutam Biswas \nRetrd",
+      "Sanjay Chatterji  Ph",
+      "Pratik Chakraborty\nAssistant Professor",
+      "Santanu Chattopadhyay\nProfessor",
+      "Soumen Pandit\nAssistant Professor",
+      "Dalia Nandi",
+      "Imon Mukherjee  Ph",
+      "Sudeshna Mondal\nAssistant Professor",
+      "Debasish Bera  Ph",
+      "Mallika Banerjee\nRetd",
+      "Bose Fellow Email",
+      "Uma Das  Ph",
+      "Oishila Bandyopadhyay\nAssistant Professor",
+      "Sanjoy Pratihar  Ph",
+      "Uma Das\nAssistant Professor"
+    ],
+    "known_faculty": [
+      {
+        "name": "Dr. Sanjay Chatterji",
+        "department": "Computer Science and Engineering",
+        "specialization": "Machine Learning"
+      },
+      {
+        "name": "Dr. Imon Mukherjee",
+        "department": "Computer Science and Engineering",
+        "specialization": "Image Processing, Steganography"
+      },
+      {
+        "name": "Dr. Rinky Sha",
+        "department": "Electronics and Communication",
+        "specialization": "Sensors, MXene"
+      },
+      {
+        "name": "Dr. Debarshi Kumar Sanyal",
+        "affiliation": "IACS",
+        "collaboration": "Research Collaboration"
+      }
+    ],
+    "note": "Faculty information from public sources and research papers"
+  },
+  "director": {
+    "name": "Director of IIIT Kalyani",
+    "designation": "Director",
+    "previous_position": "Professor, E&ECE, IIT Kharagpur",
+    "message": "",
+    "photo_url": "https://iiitkalyani.ac.in/images/Director.JPG"
+  },
+  "events_detailed": [
+    {
+      "name": "Enigma 2025",
+      "date": "February 2025",
+      "type": "Technical Festival",
+      "description": "Annual technical festival of IIIT Kalyani"
+    },
+    {
+      "name": "1st Alumni Meet",
+      "date": "January 2025",
+      "type": "Alumni Event",
+      "description": "First alumni meet of IIIT Kalyani"
+    },
+    {
+      "name": "4th Annual Convocation",
+      "date": "2024",
+      "type": "Convocation",
+      "description": "4th Annual Convocation ceremony"
+    },
+    {
+      "name": "DLAWS 2025",
+      "date": "2025",
+      "type": "Workshop",
+      "description": "Deep Learning and Applications in Weather Sciences",
+      "sponsor": "ANRF"
+    },
+    {
+      "name": "National Science Day",
+      "date": "February 2024",
+      "type": "Celebration"
+    },
+    {
+      "name": "CodeCombat 2.0",
+      "date": "March 2024",
+      "type": "Competition",
+      "description": "Coding competition"
+    },
+    {
+      "name": "Women's Day Celebration",
+      "date": "March 2024",
+      "type": "Celebration"
+    },
+    {
+      "name": "Spring Serenade",
+      "date": "March 2024",
+      "type": "Cultural Event"
+    },
+    {
+      "name": "Entrepreneurship Talk Show",
+      "date": "February 2024",
+      "type": "Talk"
+    },
+    {
+      "name": "Talent Hunt",
+      "date": "February 2024",
+      "type": "Competition"
+    },
+    {
+      "name": "CodeAgon",
+      "date": "December 2023",
+      "type": "Hackathon"
+    },
+    {
+      "name": "Status Code Hackathon",
+      "date": "2023-2024",
+      "type": "Inter-College Hackathon"
+    }
+  ],
+  "achievements_detailed": [
+    {
+      "student": "Sourabh Biswas",
+      "achievement": "Best Paper Award",
+      "event": "5th Intl. Conf. IEEE PKIA-24, Bangalore",
+      "date": "September 2024",
+      "paper": "On The Comparative Study of Recent Information Set Decoding (ISD) attacks for QC-LDPC Codebased McEliece Cryptosystem"
+    },
+    {
+      "student": "Sreeparna Ganguly",
+      "achievement": "Best Paper Award",
+      "event": "IEEE SILCON 2023",
+      "paper": "Disjunctive Edge Map based Image Sterilization",
+      "supervisor": "Dr. Imon Mukherjee"
+    },
+    {
+      "student": "Sreeparna Ganguly",
+      "achievement": "Best Presentation Award",
+      "event": "IEEE CIS Workshop on Women in AI 2024",
+      "organizer": "IIT Indore"
+    },
+    {
+      "student": "Sreeparna Ganguly",
+      "achievement": "Travel Grant",
+      "event": "Fifth Indian Symposium on Machine Learning (IndoML) 2024",
+      "sponsor": "Government of Goa"
+    },
+    {
+      "student": "Sourav Das",
+      "achievement": "Best Doctoral Research Award",
+      "event": "10th International Conference on Pattern Recognition and Machine Intelligence (PReMI 2023)",
+      "organizer": "Indian Statistical Institute, Kolkata",
+      "date": "December 2023",
+      "supervisor": "Dr. Sanjay Chatterji, Dr. Imon Mukherjee"
+    },
+    {
+      "student": "Sourav Das",
+      "achievement": "ACM Anveshan Setu PhD Fellowship",
+      "level": "National",
+      "date": "January 2023"
+    },
+    {
+      "student": "Sourav Das",
+      "achievement": "Diversity & Inclusion Award",
+      "event": "59th Annual Meeting of ACL 2021",
+      "date": "2021"
+    },
+    {
+      "student": "Sourav Das",
+      "achievement": "Remote Research Internship",
+      "institution": "IISER Kolkata",
+      "date": "May 2024"
+    },
+    {
+      "student": "Sourav Karmakar",
+      "achievement": "Journal Publication",
+      "journal": "ACS Applied Electronic Materials",
+      "paper": "2D V2C MXene Based Flexible Gas Sensor for Toluene Detection",
+      "supervisor": "Dr. Rinky Sha"
+    },
+    {
+      "student": "Sayan De",
+      "achievement": "Journal Publication",
+      "journal": "Expert Systems with Applications (IF 7.5)",
+      "paper": "Fine-tuned encoder models beat ChatGPT in agricultural NER",
+      "supervisor": "Dr. Imon Mukherjee, Dr. Debarshi Kumar Sanyal"
+    },
+    {
+      "student": "Abhik Maji",
+      "batch": "2025",
+      "achievement": "Flipkart Grid 6.0 Finalist + PPO",
+      "company": "Flipkart"
+    },
+    {
+      "student": "Ayushman Bhatt",
+      "achievement": "GATE 2024 AIR 64"
+    },
+    {
+      "student": "Arindo Mondal",
+      "achievement": "GATE 2025 AIR 665"
+    },
+    {
+      "student": "Rahul Dewangan",
+      "achievement": "GATE 2025 AIR 1023"
+    },
+    {
+      "student": "Pritwish Dey",
+      "achievement": "Paper accepted at ICSP 2024 + IISc Internship",
+      "topic": "Quantum public key cryptography, Mixed Reality"
+    },
+    {
+      "student": "Nikhil Laxminarayan",
+      "achievement": "Summer Research Internship at IIT Delhi"
+    },
+    {
+      "student": "Team Coding Pirates",
+      "members": [
+        "Mohit Kumar Shaw",
+        "Aditya Arya",
+        "Ankit Kumar Soni",
+        "Aman Kumar",
+        "Tanishka Jain"
+      ],
+      "achievement": "4th Rank in Cyber Hackathon 2025",
+      "organizer": "Govt. of Bihar",
+      "rank": "4/402 teams"
+    },
+    {
+      "student": "Pranjali Sirari",
+      "batch": "2027",
+      "achievement": "2 Gold + 1 Silver in Swimming",
+      "event": "Inter IIIT Sports Meet 2025"
+    },
+    {
+      "student": "Sahil Kumar",
+      "batch": "2026",
+      "achievement": "2 Bronze medals in Swimming",
+      "event": "Inter IIIT Sports Meet 2025"
+    },
+    {
+      "achievement": "Google Summer of Code",
+      "students": [
+        "Rishi Kumar (2023)",
+        "Shubham Kumar (2023)",
+        "Akshit Choudhari (2023)",
+        "Aditya Agarwal (2023)",
+        "Prayag Biswas (2023)",
+        "Ankit Gupta (2022)"
+      ]
+    },
+    {
+      "achievement": "Smart India Hackathon 2024 Finalists",
+      "teams": "3 teams (2 Software, 1 Hardware)",
+      "batch": "2026"
+    },
+    {
+      "achievement": "ACM ICPC Amritapuri 2023 Regionalists",
+      "team": "Team XYZ",
+      "members": [
+        "Sagar Mankoti",
+        "Bhaskar Metiya",
+        "Subhadeep Mondal"
+      ],
+      "rank": "133/3731 teams"
+    },
+    {
+      "achievement": "Competitive Programming Excellence",
+      "details": "LeetCode Guardian (2125), Codeforces Expert (1634), CodeChef 4★ (1914)",
+      "note": "10+ students with Knight/Guardian badges"
+    }
+  ],
+  "placements_detailed": {
+    "overview": "IIIT Kalyani has a dedicated Training and Placement Cell that facilitates industry internships and placements for students",
+    "portal": "http://iiitkalyani.ac.in/placement/",
+    "highlights": [
+      "Leading IT companies visit campus",
+      "Startups and product-based companies recruit",
+      "Research organizations offer positions",
+      "Students get internships in top companies like Flipkart, Google, IISc, IIT Delhi",
+      "Multiple students receive Pre-Placement Offers (PPOs)"
+    ],
+    "notable_placements": [
+      {
+        "student": "Abhik Maji",
+        "company": "Flipkart",
+        "type": "PPO after Grid 6.0"
+      }
+    ],
+    "internships": [
+      "Google Summer of Code (6+ students)",
+      "IISc Bangalore",
+      "IIT Delhi",
+      "IISER Kolkata",
+      "Industry internships at top companies"
+    ],
+    "training": {
+      "coding_platforms": "LeetCode, Codeforces, CodeChef training",
+      "workshops": "Regular workshops and training sessions",
+      "competitions": "Participation in hackathons and coding contests"
+    }
+  },
+  "admissions_detailed": {
+    "undergraduate": {
+      "programs": [
+        {
+          "name": "B.Tech in Computer Science and Engineering",
+          "duration": "4 years",
+          "seats": "120",
+          "eligibility": "10+2 with Physics, Chemistry, Mathematics",
+          "entrance_exam": "JEE Main",
+          "counseling": "JoSAA (Joint Seat Allocation Authority)",
+          "process": [
+            "Appear for JEE Main",
+            "Register for JoSAA counseling",
+            "Fill preferences",
+            "Seat allotment based on rank",
+            "Report to college for admission"
+          ]
+        },
+        {
+          "name": "B.Tech in Electronics and Communication Engineering",
+          "duration": "4 years",
+          "seats": "60",
+          "eligibility": "10+2 with Physics, Chemistry, Mathematics",
+          "entrance_exam": "JEE Main",
+          "counseling": "JoSAA"
+        }
+      ],
+      "important_dates": "As per JEE Main and JoSAA schedule",
+      "total_ug_seats": "180 per year"
+    },
+    "postgraduate": {
+      "programs": [
+        {
+          "name": "M.Tech in VLSI and Embedded Systems",
+          "duration": "2 years",
+          "admission_modes": [
+            "GATE score",
+            "Without GATE through institute entrance exam"
+          ],
+          "counseling": "CCMT for GATE candidates"
+        },
+        {
+          "name": "Executive M.Tech in AI & Data Science",
+          "duration": "2 years",
+          "eligibility": "Working professionals with relevant experience",
+          "admission": "Institute selection process"
+        }
+      ],
+      "gate_required": "For regular M.Tech, preferred but not mandatory",
+      "sponsorship": "Working professionals can apply with company sponsorship"
+    },
+    "phd": {
+      "areas": [
+        "Computer Science and Engineering",
+        "Electronics and Communication Engineering",
+        "Mathematics"
+      ],
+      "admission_process": [
+        "Apply through online portal",
+        "Written entrance test",
+        "Interview",
+        "Final selection based on test and interview"
+      ],
+      "sessions": [
+        "Autumn (July-August)",
+        "Spring (January-February)"
+      ],
+      "fellowship": {
+        "regular": "As per MHRD/UGC norms",
+        "sponsored": "For sponsored candidates",
+        "project": "For project-based PhD"
+      },
+      "schemes": [
+        "Visvesvaraya PhD Scheme",
+        "Prime Minister Research Fellowship (PMRF)",
+        "Full-time and Part-time options available"
+      ]
+    },
+    "fee_structure": {
+      "btech": {
+        "tuition_per_semester": "₹1.25 lakhs (approx)",
+        "hostel": "Additional charges",
+        "mess": "Additional charges",
+        "one_time": "Admission fee, caution deposit, etc.",
+        "total_annual": "₹2.5-3 lakhs (approx including hostel)"
+      },
+      "mtech": {
+        "tuition": "As per government norms",
+        "scholarships": "Available for GATE qualified students"
+      },
+      "phd": {
+        "tuition": "Minimal for full-time students with fellowship",
+        "fellowship_amount": "₹31,000-35,000 per month (subject to change)"
+      }
+    },
+    "scholarships": [
+      "Merit-cum-Means scholarship",
+      "SC/ST/OBC scholarships",
+      "State government scholarships",
+      "Vidya Lakshmi education loans",
+      "UP Scholarship",
+      "Prime Minister Research Fellowship",
+      "Institute scholarships for meritorious students"
+    ],
+    "documents_required": [
+      "10th Mark sheet",
+      "12th Mark sheet",
+      "JEE Main scorecard / GATE scorecard",
+      "Category certificate (if applicable)",
+      "Domicile certificate",
+      "Passport size photographs",
+      "Aadhar card",
+      "Income certificate (for scholarships)"
+    ]
+  },
+  "research_projects": {
+    "total_projects": 11,
+    "total_funding": "₹432.28 Lakhs",
+    "projects": [
+      {
+        "title": "Extraction, Organization and Query of Scholarly Information",
+        "sponsor": "SERB, DST, Govt. of India",
+        "amount": "₹21.92 Lakhs",
+        "area": "Information Retrieval"
+      },
+      {
+        "title": "Long Short Term Memory based Neural Network Approach for Prediction of Wintertime Fog over Northern India",
+        "sponsor": "Ministry of Earth Science, Govt. of India",
+        "amount": "₹24.37 Lakhs",
+        "area": "Weather Prediction, Deep Learning"
+      },
+      {
+        "title": "Development of Code based PQC algorithms and its security analysis",
+        "sponsor": "CAIR-DRDO, Ministry of Defence, Govt. of India",
+        "amount": "₹49.97 Lakhs",
+        "area": "Post-Quantum Cryptography"
+      },
+      {
+        "title": "Development of code based PQC signature scheme and its security analysis",
+        "sponsor": "CAIR-DRDO, Ministry of Defence, Govt. of India",
+        "amount": "₹48.96 Lakhs",
+        "area": "Cryptography, Cybersecurity"
+      },
+      {
+        "title": "VLSI Implementation of Crypto-Hardware targeting Classical and Post Quantum Cryptography",
+        "sponsor": "MeitY, Govt. of India",
+        "amount": "₹84.40 Lakhs",
+        "area": "VLSI, Cryptography"
+      },
+      {
+        "title": "Cyclone Intensity and Track Prediction using Deep Learning",
+        "sponsor": "SERB, DST, Govt. of India",
+        "amount": "₹26.44 Lakhs",
+        "area": "Deep Learning, Weather Science"
+      },
+      {
+        "title": "Automated Helmet Detection for Motorcyclist from Traffic Surveillance Videos using Deep CNN",
+        "sponsor": "WOS-A, DST, Govt. of India",
+        "amount": "₹29.57 Lakhs",
+        "area": "Computer Vision, Deep Learning"
+      },
+      {
+        "title": "Automatic Image-based Crop Disease Detection and Severity Estimation",
+        "sponsor": "WBSTBT, Govt. of West Bengal",
+        "amount": "₹12.20 Lakhs",
+        "area": "Agriculture, AI"
+      },
+      {
+        "title": "Real Time Prediction of Signal Strength and Atmospheric Losses using Machine Learning for 4G LTE and 5G Communication",
+        "sponsor": "WBSTBT, Govt. of West Bengal",
+        "amount": "₹12.70 Lakhs",
+        "area": "5G, Machine Learning"
+      },
+      {
+        "title": "Small scale and transient features in the Mesosphere Lower Thermosphere (MLT) region using airglow technique",
+        "sponsor": "ISRO, Department of Space, Govt. of India",
+        "amount": "₹27.53 Lakhs",
+        "area": "Space Science"
+      },
+      {
+        "title": "Fabrication of AI-enabled 2D-Mxenes based label-free electrochemical immunosensor for detection of CA15-3, a novel biomarker for breast cancer",
+        "sponsor": "ICMR, Govt. of India",
+        "amount": "₹94.22 Lakhs",
+        "area": "Healthcare, AI, Nanotechnology"
+      }
+    ],
+    "research_areas": [
+      "Artificial Intelligence and Machine Learning",
+      "Post-Quantum Cryptography",
+      "VLSI Design",
+      "5G Communication",
+      "Computer Vision",
+      "Healthcare Technology",
+      "Weather Science",
+      "Space Science",
+      "Cybersecurity",
+      "Nanotechnology"
+    ]
+  },
+  "departments_detailed": [
+    {
+      "name": "Computer Science and Engineering",
+      "programs": [
+        "B.Tech",
+        "M.Tech",
+        "PhD"
+      ],
+      "specializations": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science",
+        "Blockchain Technology",
+        "Cybersecurity",
+        "Computer Vision",
+        "Natural Language Processing",
+        "Information Retrieval"
+      ],
+      "labs": [
+        "AI/ML Lab",
+        "Computing Lab",
+        "Cybersecurity Lab"
+      ],
+      "research_focus": [
+        "Post-Quantum Cryptography",
+        "Deep Learning applications",
+        "Image Processing",
+        "Agricultural AI",
+        "Weather Prediction"
+      ],
+      "faculty_count": "15+",
+      "student_strength": "400+"
+    },
+    {
+      "name": "Electronics and Communication Engineering",
+      "programs": [
+        "B.Tech",
+        "M.Tech in VLSI",
+        "PhD"
+      ],
+      "specializations": [
+        "VLSI Design",
+        "Embedded Systems",
+        "5G Technology",
+        "IoT",
+        "Signal Processing",
+        "Communication Systems",
+        "Sensor Technology"
+      ],
+      "labs": [
+        "VLSI Lab",
+        "5G Lab",
+        "Embedded Systems Lab",
+        "SHE (Sensors for Healthcare and Environment) Lab"
+      ],
+      "research_focus": [
+        "VLSI implementation of crypto-hardware",
+        "5G communication",
+        "MXene-based sensors",
+        "Healthcare monitoring",
+        "Environmental sensing"
+      ],
+      "faculty_count": "10+",
+      "student_strength": "200+"
+    },
+    {
+      "name": "Mathematics",
+      "programs": [
+        "PhD"
+      ],
+      "specializations": [
+        "Applied Mathematics",
+        "Computational Mathematics",
+        "Optimization",
+        "Numerical Methods"
+      ],
+      "research_focus": [
+        "Mathematical modeling",
+        "Optimization techniques",
+        "Statistical analysis"
+      ]
+    }
+  ]
+}
